@@ -1,3 +1,3 @@
-FooCoin (FOO)
+JewCoin (JEW)
 
 Blah, blah, blah.
