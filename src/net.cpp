@@ -996,9 +996,9 @@ void ThreadSocketHandler2(void* parg)
 // Each pair gives a source name and a seed name.
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
-//static const char *strDNSSeed[][2] = {
-//    {"andarazoroflove", "andarazoroflove.org"},
-//};
+static const char *strDNSSeed[][2] = {
+    {"andarazoroflove", "andarazoroflove.org"},
+};
 // todo: setup seed node
 void ThreadDNSAddressSeed(void* parg)
 {
